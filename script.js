@@ -3,4 +3,4 @@ let x = prompt("Enter First Number: ");
 let res1 = x*2;
 let y = prompt("Enter Second Number: ");
 let res2 = Number(y) + Number(res1);
-alert("The Final result is: "+ res2);
+alert("The final result is: "+ res2);
